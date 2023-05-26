@@ -42,10 +42,10 @@
               <div class="card-body">
                 <div class="tab-content">
                   <div class="active tab-pane" id="activity">
-                        <div class="form-group">
+                        <!-- <div class="form-group">
                           <label for="foto_paslon">Foto Paslon :</label>
                           <input type="file" id="foto_paslon" class="form-control"  value="<?php echo $foto_paslon?>" name="foto_paslon">
-                        </div>
+                        </div> -->
                         <div class="form-group">
                           <label for="inputName">Visi</label>
                           <textarea name="visi"  class="form-control" rows="4"><?php echo $visi?></textarea>
